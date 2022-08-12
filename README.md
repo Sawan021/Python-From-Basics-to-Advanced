@@ -5,6 +5,6 @@ Following are the topics covered so far :
   1. Basics of Python (Intro)
   2. Working with strings & Lists
   3. List manipulation
-Next--> 4.Tuple, Sets & Dictionary
+  4. Next--> Tuple, Sets & Dictionary
 
 Stay connected & Enjoy Learning
