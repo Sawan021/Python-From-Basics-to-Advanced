@@ -7,6 +7,7 @@ Following are the topics covered so far :
   3. List manipulation
   4. Tuple, Sets & Dictionary
   5. Functions
-  6. Next--> Functions, Generators & File handling
+  6. Functions, Generators & File handling
+  7. Next--> Logging & Debugging
 
 Stay connected & Enjoy Learning
