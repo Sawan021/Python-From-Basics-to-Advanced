@@ -8,6 +8,8 @@ Following are the topics covered so far :
   4. Tuple, Sets & Dictionary
   5. Functions
   6. Functions, Generators & File handling
-  7. Next--> Logging & Debugging
+  7. Logging & Debugging
+  8. Next--> Modules & Exception
+     Soon--> OOPs Concepts
 
 Stay connected & Enjoy Learning
