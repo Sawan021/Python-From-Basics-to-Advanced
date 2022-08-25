@@ -9,7 +9,7 @@ Following are the topics covered so far :
   5. Functions
   6. Functions, Generators & File handling
   7. Logging & Debugging
-  8. Next--> Modules & Exception
-     Soon--> OOPs Concepts
+  8. Modules & Exception
+  9. NEXT--> OOPs Concepts
 
 Stay connected & Enjoy Learning
