@@ -14,6 +14,7 @@ MODULE-1:
   
 MODULE-2: 
 2.1 Introduction to OOPs (classes, Objects),
-2.2 NEXT--> OOPS :Abstraction, Inheritance
+2.2  OOPS :Abstraction, Inheritance
+2.3 NEXT--> Enacapsulation
 
 Stay connected & Enjoy Learning
