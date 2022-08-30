@@ -2,7 +2,7 @@
 This repository of Python from Basics will help you learn & understand the concepts of Python with help of a lot of examples.
 Following are the topics covered so far :
 
-MODULE-1:
+MODULE-1: PYTHON
 1.1 Basics of Python (Intro),
 1.2 Working with strings & Lists,
 1.3 List manipulation,
@@ -12,9 +12,13 @@ MODULE-1:
 1.7 Logging & Debugging,
 1.8 Modules & Exception.
   
-MODULE-2: 
+MODULE-2: OOPs
 2.1 Introduction to OOPs (classes, Objects),
 2.2  OOPS :Abstraction, Inheritance
-2.3 NEXT--> Enacapsulation
+2.3 Enacapsulation
+
+MODULE-3: DATABASES
+3.1 Working with SQL using Python
+3.2 NEXT--> MONGO DB
 
 Stay connected & Enjoy Learning
