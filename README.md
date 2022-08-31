@@ -20,6 +20,7 @@ MODULE-2: OOPs <br />
 
 MODULE-3: DATABASES <br />
 3.1 Working with SQL using Python <br />
-3.2 NEXT--> MONGO DB <br />
+3.2 Working with MONGO DB using Python <br />
+3.3 NEXT--> Working with cassandra using Python <br />
 
 <br /> Stay connected & Enjoy Learning
