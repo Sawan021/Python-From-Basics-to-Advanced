@@ -1,5 +1,5 @@
 # Python-From-Basics
-This repository of Python from Basics will help you learn & understand the concepts of Python with help of a lot of examples. This learning journey will cover Python from basics to advanced , with OOPs concepts & Databases. Widely used library such as Pandas, Numpy,Matplotlib, Plotly and Seaborn Will be discussed. <br />
+This repository of Python from Basics will help you learn & understand the concepts of Python with help of a lot of examples. This learning journey will cover Python from basics to advanced , with OOPs concepts & Databases. Widely used library such as Pandas, Numpy,Matplotlib, Plotly and Seaborn are discussed in Data Visualization repository. <br />
 
 Following are the topics covered so far :<br />
 
@@ -21,7 +21,5 @@ MODULE-2: OOPs <br />
 MODULE-3: DATABASES <br />
 3.1 Working with SQL using Python <br />
 3.2 Working with MONGO DB using Python <br />
-
-NEXT--> MODULE-4: PANDAS <br/>
 
 <br /> Stay connected & Enjoy Learning
