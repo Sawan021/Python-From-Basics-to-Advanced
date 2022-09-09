@@ -22,4 +22,8 @@ MODULE-3: DATABASES <br />
 3.1 Working with SQL using Python <br />
 3.2 Working with MONGO DB using Python <br />
 
+MODULE-3: Python Libraries <br />
+4.1 Pandas <br />
+4.2 NumPy <br />
+
 <br /> Stay connected & Enjoy Learning
